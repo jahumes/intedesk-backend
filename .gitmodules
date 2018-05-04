@@ -1,0 +1,3 @@
+[submodule "event-sourcing-node"]
+	path = event-sourcing-node
+	url = https://github.com/jahumes/event-sourcing-node
